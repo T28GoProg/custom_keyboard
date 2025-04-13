@@ -1,5 +1,5 @@
 # Custom_keyboard
-Software will use FreeCAD and Kicad. Kicad create PCB. FreeCAD create case. The keyboard support QMK/VIA. it support 3D print.
+Software will use FreeCAD and Kicad. Kicad create PCB. FreeCAD create case. The keyboard support QMK/VIA. it support 3D print. We using STM32. 
 
 * FreeCAD website: https://www.freecad.org/
   ![image](https://github.com/T28GoProg/custom_keyboard/blob/main/Photo/FreeCAd.PNG)
@@ -28,4 +28,6 @@ To Do keyboard layout:
 References:
 ------------
 Youtube: 
+1. TKL Keyboard PCB Design, Part 1 & 2
+2. Simple STM32 Mechanical Keyboard PCB Design in Kicad
 bilibili: 

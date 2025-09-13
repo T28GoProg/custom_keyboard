@@ -1,12 +1,23 @@
 # Custom_keyboard
-Software will use FreeCAD and Kicad. Kicad create PCB. FreeCAD create case. The keyboard support QMK/VIA. it support 3D print. We using STM32. 
+Software will use LibreCAD, FreeCAD and Kicad. LibreCAD create 2D draft. FreeCAD create 3d model case. Kicad create PCB. 
+Support:
+* Multiple Structure: Spring, Brass Sheet, silicone Granule,
+* Power switch on and off using and charge battery
+* Tri-Mode: 2.4GHz, Bluetooth 5.1, Connect Cable 
+* PCB STM32. 
+* Support QMK/VIA.
+* support 3D print.
+* keyboard plastic vs aluminum
 
+Software will use
+-----------------------
+* LibreCAD: 
 * FreeCAD website: https://www.freecad.org/
   ![image](https://github.com/T28GoProg/custom_keyboard/blob/main/Photo/FreeCAd.PNG)
 * kicad Website:https://www.kicad.org/
   ![image](https://github.com/T28GoProg/custom_keyboard/blob/main/Photo/kicad.PNG)
 
-website will use:
+Website will use
 ------------------
 1. keybaord-layout-editor: https://www.keyboard-layout-editor.com/
    ![image](https://github.com/T28GoProg/custom_keyboard/blob/main/Photo/keyboard_layout_editor.PNG)

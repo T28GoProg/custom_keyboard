@@ -34,10 +34,16 @@ To Do keyboard layout:
 * 68%
 * 87 or 80% (PCB Mr. suit style)
 case: 
-1. case for Mr. Suit -> unversial case
-2. PMO Aurora 80 style
-3. story80 style
-4. GX87 style
+1. case for Mr. Suit -> universal case for suit 80
+   ![image](https://api03.miancp.com/web/www.weikavcn.com/static/upload/image/20260124/1769225056179505.jpg)
+   * Version 1: Plastic case
+   * Version 2: Aluminum case
+3. PMO Aurora 80 style
+   ![image](https://www.wobkey.com/cdn/shop/files/PA80BK.jpg?v=1772766920)
+4. MRXSKEY - Story80 style
+   ![image](https://m.media-amazon.com/images/I/51mZpeBshYL._AC_UF1000,1000_QL80_.jpg)
+5. Mchose GX87 style
+   ![image](https://i.ebayimg.com/images/g/asAAAeSws2Fo14Ub/s-l1200.jpg)
 * 98% layout
 * 103 key
 

@@ -29,16 +29,23 @@ Updates
 
 To Do keyboard layout:
 --------------
-*HHKB
-*60%
-*68%
-*87 or 80%
-*98% layout
-*103 key
+* HHKB
+* 60%
+* 68%
+* 87 or 80% (PCB Mr. suit style)
+case: 
+1. case for Mr. Suit -> unversial case
+2. PMO Aurora 80 style
+3. story80 style
+4. GX87 style
+* 98% layout
+* 103 key
 
 References:
 ------------
 Youtube: 
 1. TKL Keyboard PCB Design, Part 1 & 2
 2. Simple STM32 Mechanical Keyboard PCB Design in Kicad
-bilibili: 
+bilibili:
+3. Waffling80 (https://github.com/4pplet/waffling80)
+4. SST80 (https://github.com/dededecline/SST80)

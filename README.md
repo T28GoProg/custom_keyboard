@@ -33,6 +33,10 @@ To Do keyboard layout:
 * 60%
 * 68%
 * 87 or 80% (PCB Mr. suit style)
+  Version 1 7u
+  version 2 7u RGB
+  version 3 6.25u
+  Version 4 6.25u RGB
 case: 
 1. case for Mr. Suit -> universal case for suit 80
    ![image](https://api03.miancp.com/web/www.weikavcn.com/static/upload/image/20260124/1769225056179505.jpg)
@@ -55,3 +59,5 @@ Youtube:
 bilibili:
 3. Waffling80 (https://github.com/4pplet/waffling80)
 4. SST80 (https://github.com/dededecline/SST80)
+5. https://github.com/naraku010/keyboard_layout/tree/main
+6. https://github.com/yuagonc/keyboard_plate_cad/tree/main

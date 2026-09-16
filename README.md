@@ -32,11 +32,13 @@ To Do keyboard layout:
 * HHKB
 * 60%
 * 68%
+  * CIY gas67
+  * CIY gas67 case (redesign)
 * 87 or 80% (PCB Mr. suit style)
-  Version 1 7u
-  version 2 7u RGB
-  version 3 6.25u
-  Version 4 6.25u RGB
+  * Version 1 7u
+  * version 2 7u RGB
+  * version 3 6.25u
+  * Version 4 6.25u RGB
 case: 
 1. case for Mr. Suit -> universal case for suit 80
    ![image](https://api03.miancp.com/web/www.weikavcn.com/static/upload/image/20260124/1769225056179505.jpg)
@@ -48,16 +50,22 @@ case:
    ![image](https://m.media-amazon.com/images/I/51mZpeBshYL._AC_UF1000,1000_QL80_.jpg)
 5. Mchose GX87 style
    ![image](https://i.ebayimg.com/images/g/asAAAeSws2Fo14Ub/s-l1200.jpg)
+6. Cidoo V87pro
+   
 * 98% layout
 * 103 key
 
 References:
 ------------
 Youtube: 
-1. TKL Keyboard PCB Design, Part 1 & 2
-2. Simple STM32 Mechanical Keyboard PCB Design in Kicad
-bilibili:
-3. Waffling80 (https://github.com/4pplet/waffling80)
-4. SST80 (https://github.com/dededecline/SST80)
-5. https://github.com/naraku010/keyboard_layout/tree/main
-6. https://github.com/yuagonc/keyboard_plate_cad/tree/main
+01. TKL Keyboard PCB Design, Part 1 & 2
+02. Simple STM32 Mechanical Keyboard PCB Design in Kicad
+03. Waffling80 (https://github.com/4pplet/waffling80)
+04. SST80 (https://github.com/dededecline/SST80)
+05. https://github.com/naraku010/keyboard_layout/tree/main
+06. https://github.com/yuagonc/keyboard_plate_cad/tree/main
+07. cherish-75 - https://github.com/parkergrt/cherish-75/tree/main
+08. HelloWord-Keyboard - https://github.com/peng-zhihui/HelloWord-Keyboard
+09. bilibili - 拉普拉斯-羊驼
+10. bilibili - 丈二先生呀
+11. bilibili - 苏达酱

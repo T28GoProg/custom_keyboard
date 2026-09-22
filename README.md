@@ -69,3 +69,4 @@ Youtube:
 09. bilibili - 拉普拉斯-羊驼
 10. bilibili - 丈二先生呀
 11. bilibili - 苏达酱
+12. 菜籽猫DZ87_For_TL PCB/ZMK方案 /52840主控超/低功耗方案

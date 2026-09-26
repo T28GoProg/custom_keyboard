@@ -14,6 +14,8 @@ Software will use
 * LibreCAD: 
 * FreeCAD website: https://www.freecad.org/
   ![image](https://github.com/T28GoProg/custom_keyboard/blob/main/Photo/FreeCAd.PNG)
+* libredwg
+  * FreeCAD library to read dwg file. 
 * kicad Website:https://www.kicad.org/
   ![image](https://github.com/T28GoProg/custom_keyboard/blob/main/Photo/kicad.PNG)
 
@@ -35,10 +37,13 @@ To Do keyboard layout:
   * CIY gas67
   * CIY gas67 case (redesign)
 * 87 or 80% (PCB Mr. suit style)
-  * Version 1 7u
-  * version 2 7u RGB
-  * version 3 6.25u
-  * Version 4 6.25u RGB
+  * non-support VIA/QMK: Nordic Semiconductor nRF52840 microcontroller
+  * Support VIA/QMK: Sonix SN32F248B or SN32F268F microcontrollers
+  * Support N-key rollover
+    * Version 1 7u
+    * version 2 7u RGB
+    * version 3 6.25u
+    * Version 4 6.25u RGB
 case: 
 1. case for Mr. Suit -> universal case for suit 80
    ![image](https://api03.miancp.com/web/www.weikavcn.com/static/upload/image/20260124/1769225056179505.jpg)
